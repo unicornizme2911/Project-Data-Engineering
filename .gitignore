@@ -1,0 +1,6 @@
+/py-mongo/env
+/py-mongo/__pycache__
+/py-mongo/config/__pycache__
+/py-mongo/models/__pycache__
+/py-mongo/routes/__pycache__
+/py-mongo/schemas/__pycache__
